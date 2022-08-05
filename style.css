@@ -14,7 +14,7 @@ body {
     margin:auto;
     margin-top: 20px;
     padding: 20px;
-    background-color:silver;
+    background-color:rgba(69, 69, 69, 0.922);
     color: #e02c04;
     border-color: gray;
     border-style: groove;
