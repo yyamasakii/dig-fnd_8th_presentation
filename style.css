@@ -15,14 +15,17 @@ body {
     margin-top: 20px;
     padding: 20px;
     background-color:rgba(69, 69, 69, 0.922);
-    color: #e02c04;
+    color: #fc754c;
     border-color: gray;
     border-style: groove;
     border-width: 30px;
     text-align: center;
     align-items: center;
     font-family: "游ゴシック";
-    text-shadow: 3px 3px 6px #a43502b1;
+    text-shadow:0px 3px 0px #5f1d00,
+    0px 14px 10px rgb(93, 23, 23),
+    0px 24px 5px rgb(54, 14, 14),
+    0px 34px 30px black;
 }
 
 /* 右端画像　figureのid */
