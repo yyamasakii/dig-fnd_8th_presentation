@@ -62,6 +62,7 @@ function change(){
     // 3) h2 id=numberに言葉を入れる
     const number = document.getElementById("number");
     number.innerText = numberArray[randamBot];
+    
     // 4) ガチャの画像を消す
     const button = document.getElementById("button");
     button.style.display = "none";
