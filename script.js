@@ -12,6 +12,7 @@ const imgPathArray = [
     "bot_img/bot_img6.png",
     "bot_img/bot_img7.png",
     "bot_img/bot_img8.png",
+    "bot_img/bot_img9.png",
     "bot_img/nightmare_day03_dig-comparisons-intro.png"
 ];
 
@@ -25,6 +26,7 @@ const urlArray = [
     "https://toyotatimes.jp/series/toyoda_words/006.html",
     "https://toyotatimes.jp/series/toyoda_words/007.html",
     "https://toyotatimes.jp/series/toyoda_words/008.html",
+    "https://toyotatimes.jp/series/toyoda_words/009.html",
     "https://yyamasakii.github.io/dig-fnd_8th_presentation/"
 ]
 
@@ -38,6 +40,7 @@ const numberArray = [
     "#06「意志ある情熱と行動」",
     "#07「負け嫌い」",
     "#08「自分以外の誰かのために」",
+    "#09「バッターボックスに立とう」",
     "ナイトメア問題（Week 1 - Wednesday 2022/07/13 dig-comparisons-intro)"
 ]
 
